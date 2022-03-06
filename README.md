@@ -26,6 +26,28 @@
   2.Shodan\
   3.Github
   
+ # Payloads
+ 
+   <a href="https://github.com/illupak/Recon/blob/Branch1/Google%20Dorking%20Payloads">Google Dorking Payload</a> \
+   <a href="https://github.com/illupak/Recon/blob/Branch1/Shodan%20Dorking%20Payloads">Shodan Dorking Payload</a> \
+   <a href="https://github.com/illupak/Recon/blob/Branch1/GitHub%20Dorking%20Payloads">GitHub Dorking Payload</a>
+   
+ # Top Findings
+ 
+  https://hackerone.com/reports/397527
+  
+  https://hackerone.com/reports/493176
+  
+  https://hackerone.com/reports/502758
+   
+ # References
+ 
+    https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/googledorks_full.txt
+
+    https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
+
+    https://github.com/lothos612/shodan/blob/main/Shodan%20Dorks.jex
+  
   
   
   
