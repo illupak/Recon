@@ -26,6 +26,10 @@
   2.Shodan\
   3.Github
   
+ # Payloads
+ 
+ ####  <a href="https://github.com/illupak/Recon/blob/Branch1/Google%20Dorking%20Payloads">Google Dorking Payload</a>
+  
   
   
   
