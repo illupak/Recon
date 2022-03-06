@@ -32,6 +32,14 @@
    <a href="https://github.com/illupak/Recon/blob/Branch1/Shodan%20Dorking%20Payloads">Shodan Dorking Payload</a> \
    <a href="https://github.com/illupak/Recon/blob/Branch1/GitHub%20Dorking%20Payloads">GitHub Dorking Payload</a>
    
+ # Top Findings
+ 
+  https://hackerone.com/reports/397527
+  
+  https://hackerone.com/reports/493176
+  
+  https://hackerone.com/reports/502758
+   
  # References
  
     https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/googledorks_full.txt
