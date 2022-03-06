@@ -28,7 +28,8 @@
   
  # Payloads
  
- ####  <a href="https://github.com/illupak/Recon/blob/Branch1/Google%20Dorking%20Payloads">Google Dorking Payload</a>
+ ####  <a href="https://github.com/illupak/Recon/blob/Branch1/Google%20Dorking%20Payloads">Google Dorking Payload</a> \
+ ####  <a href="https://github.com/illupak/Recon/blob/Branch1/GitHub%20Dorking">GitHub Dorking Payload</a>
   
   
   
