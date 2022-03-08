@@ -42,11 +42,11 @@
    
  # References
  
-    https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/googledorks_full.txt
+  https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/googledorks_full.txt
 
-    https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
+  https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f
 
-    https://github.com/lothos612/shodan/blob/main/Shodan%20Dorks.jex
+  https://github.com/lothos612/shodan/blob/main/Shodan%20Dorks.jex
   
   
   
